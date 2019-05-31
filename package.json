@@ -1,5 +1,5 @@
 {
-  "name": "generator-general-node",
+  "name": "@m4numbers/generator-general-node",
   "version": "1.0.0",
   "description": "A generator for a generic nodejs project written in yeoman",
   "main": "index.js",
