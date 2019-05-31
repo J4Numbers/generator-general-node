@@ -1,0 +1,25 @@
+{
+  "name": "generator-general-node",
+  "version": "1.0.0",
+  "description": "A generator for a generic nodejs project written in yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4numbers/generator-general-node.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "M4Numbers <m4numbers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m4numbers/generator-general-node/issues"
+  },
+  "homepage": "https://github.com/m4numbers/generator-general-node#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}
