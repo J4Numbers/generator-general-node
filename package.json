@@ -2,10 +2,12 @@
   "name": "@m4numbers/generator-general-node",
   "version": "1.0.0",
   "description": "A generator for a generic nodejs project written in yeoman",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "generators"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/m4numbers/generator-general-node.git"
